@@ -18,5 +18,5 @@ setup(
     author_email='sergray@gmail.com',
     url='https://github.com/sergray/EasyURL',
     license=license,
-    modules=['easyurl']
+    py_modules=['easyurl'],
 )
