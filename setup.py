@@ -16,7 +16,7 @@ setup(
     long_description=readme,
     author='Sergey Panfilov',
     author_email='sergray@gmail.com',
-    url='https://github.com/sergray/EasyURL',
+    url='https://github.com/sergray/easy-url',
     license=license,
     py_modules=['easyurl'],
 )
