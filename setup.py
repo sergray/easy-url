@@ -11,7 +11,7 @@ with open('LICENSE') as f:
 
 setup(
     name='easyurl',
-    version='0.0.1',
+    version='0.0.2',
     description='Easy handling of URLs',
     long_description=readme,
     author='Sergey Panfilov',
